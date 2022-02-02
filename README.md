@@ -17,10 +17,10 @@ Have we provided “alt text” alternatives for all graphics like icons to a de
 
 1.2   Time-based Media-  Provide alternatives for time-based media [such as video, sound, 
 	slideshows, etc.]
-Have we provided a transcript of prerecorded audio and video recordings? ( Level A )
-Have we provided captions and descriptions for prerecorded audio and videos? ( Level A )
-Are live captions available for live audio and video recordings? ( Level AA )
-Have we provided audio recordings which describe in real-time the contents of all video recordings? 
+Have we provided a transcript of prerecorded audio and video recordings? [(Level A )](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#non-text-content) //
+Have we provided captions and descriptions for prerecorded audio and videos? ( Level A ) // 
+Are live captions available for live audio and video recordings? ( Level AA ) // 
+Have we provided audio recordings which describe in real-time the contents of all video recordings? // 
 ( Level AA )
 Do we have a video recording of an ASL interpreter translating our pre recorded media? ( Level AAA )
 Have we provided an audio description of the prerecorded media that also includes implicit context that may not be understood through a language translation alone? ( Level AAA )
