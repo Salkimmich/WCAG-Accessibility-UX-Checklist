@@ -1,10 +1,11 @@
-# WCAG-Accessibility-UX-Checklist
+<h1>WCAG-Accessibility-UX-Checklist</h1>
 Accessibility UX checklist to serve as a method for designers and developers to assess the WCAG compliance of their work.
-UX Accessibility Checklist
+
+<h2>UX Accessibility Checklist</h2>
 WCAG Verification – 116 Questions  |  Cumulative list
 
 
-1. Perceivable  
+<h3>1. Perceivable 	</h3>
 Information and user interface components must be presentable to users in ways they can perceive.
 
 
@@ -71,7 +72,7 @@ Disabled
 Loading
 Error
 
-2. Operable
+<h3> 2. Operable 	</h3>
 User interface components and navigation must be operable.
 
 
@@ -138,7 +139,7 @@ Information and the operation of the user interface must be understandable.
 
 
 
-3.1   Readable-  Make text content readable and understandable.
+<h3> 3.1   Readable-  Make text content readable and understandable. 	</h3>
 
 
 Has a default human language been programmed into markup? ( Level A )
@@ -186,7 +187,7 @@ Content must be robust enough that it can be interpreted by a wide variety of us
 
 
 
-4.1   Compatible-  Maximize compatibility with current and future user agents, including assistive technologies.
+<h3>4.1   Compatible-  Maximize compatibility with current and future user agents, including assistive technologies. 	</h3>
 
 
 Does all content that uses a markup language have complete start and end tags? ( Level A )
